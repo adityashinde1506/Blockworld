@@ -1,0 +1,1 @@
+from blockworld.simple.handlers.collision_handler import CollisionHandler
